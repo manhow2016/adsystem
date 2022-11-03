@@ -1,1 +1,4 @@
-aaa=11111
+update_info=update-info.txt
+plugin_dir=plugins
+plugin_md5=plugin-md5.txt
+plugin_order=plugin-order.txt
